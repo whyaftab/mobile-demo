@@ -1,0 +1,5 @@
+export const APP_ACCESS_CODE = "APP_ACCESS_CODE";
+export const APP_USER_ID = "APP_USER_ID";
+export const APP_LANGUAGE_KEY = "APP_LANGUAGE_KEY";
+export const APP_ONBOARDING_KEY = "APP_ONBOARDING_KEY";
+export const APP_LOCAL_DATA = "APP_LOCAL_DATA";

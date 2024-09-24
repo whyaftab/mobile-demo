@@ -1,0 +1,36 @@
+# VitaCare
+
+VitaCare is a mobile application built with [Expo](https://expo.io/), designed to provide users with an efficient and intuitive experience. This README provides an overview of the project, setup instructions, and other essential information.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Node.js](https://nodejs.org/) (version 18 or later)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+## Install dependencies
+
+npm install
+
+or
+
+yarn install
+
+## Running the Project
+
+To start the development server, use the following command:
+
+expo start
+
+## Generating build
+
+npm run build:android
+
+npm run build:ios
+
+the build will be generate in eas server where you can download it and upload to app and play store manually
